@@ -1,0 +1,6 @@
+framework module Pods_Day05_MosaicLayoutTests {
+  umbrella header "Pods-Day05-MosaicLayoutTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

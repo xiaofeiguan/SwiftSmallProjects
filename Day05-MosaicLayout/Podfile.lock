@@ -1,0 +1,20 @@
+PODS:
+  - FMMosaicLayout (0.1.4)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - FMMosaicLayout
+  - SwiftyJSON (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - FMMosaicLayout
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  FMMosaicLayout: c0febf6876c987c425d7e2176d034fa7a2c98cb5
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: ef4b365a52c63f7db4a8a9d44641c7c8752858e3
+
+COCOAPODS: 1.11.3

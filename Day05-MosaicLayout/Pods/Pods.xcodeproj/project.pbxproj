@@ -1,0 +1,1165 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0F856706632030ABDE73A83A89075113 /* Pods-Day05-MosaicLayout-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CE229AE63F3FB103CE344DAAD98CB9D7 /* Pods-Day05-MosaicLayout-dummy.m */; };
+		325CCDB295FFA016638075B5D2CEDD5C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		42426D20EFDE403AC84A22FE2FA84973 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		5FA526557719FDBE81B1974B113CF600 /* SwiftyJSON-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 21650DB9F38E6D92CB6C7D84B8B5A346 /* SwiftyJSON-dummy.m */; };
+		6FC4F2514299AF461C3CD1F2AAA9A1B0 /* FMMosaicLayout-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C584B1B9F475194F8F02750AB83DA4DF /* FMMosaicLayout-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		706C2B99A75ACF2AB22765CFAF528C32 /* FMMosaicLayout-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DEB12A48E69A2F96237C20C877CB1C6D /* FMMosaicLayout-dummy.m */; };
+		73BA10CA253338F70FFDA08C05EDB349 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		A115142039C23F91827E6961CC479F05 /* SwiftyJSON-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A5AEA20ECEE9B93A7F6E8D810840DE68 /* SwiftyJSON-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A3CEE8324948497036C4E123B21CBC59 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF409F72322D58C71D14A4562885893 /* SwiftyJSON.swift */; };
+		A49928CF07A93864BB466B93AACB6F55 /* Pods-Day05-MosaicLayout-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A7E6926327AFCDEBC1B853A9C10436DF /* Pods-Day05-MosaicLayout-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		ACCA08C1AAABA17B1648C14CC2339A93 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B8CF4CB341BB5E8E92817BE1EF0086EA /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-dummy.m */; };
+		B20A7CB94170DA7D9285ABCD6965B80F /* Pods-Day05-MosaicLayoutTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EB68076F0110E9C31D23434D0D52E8E7 /* Pods-Day05-MosaicLayoutTests-dummy.m */; };
+		D150C905766426240D9E5B5176F32DE6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		D30C0DABCDCDCD58DCFE4A02557F4A27 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A5D1AC3F015E5D89C9F7586AEC2C10C4 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DDD1A69AB25EA94DF0009AF0C3E96531 /* Pods-Day05-MosaicLayoutTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D1028FB44CF126D0866B64D886B405AA /* Pods-Day05-MosaicLayoutTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F056E613C7A01291202D437CD2808094 /* FMMosaicLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D57E2156BF9C69273611002E09873F5 /* FMMosaicLayout.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F8E6642139F9A95A011347D8FBB98540 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		FE6BE048A7CAA82F1E19DCA1E2D7F95C /* FMMosaicLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 9293891546D08C6B5FE1090C7599ED5D /* FMMosaicLayout.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		46D77F0E0B717ADA56C42678F13F43D8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3512592E59CCE0A2C2DEBF60C05426EF;
+			remoteInfo = FMMosaicLayout;
+		};
+		733D3297362EB9552C943BED1D1B2220 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D118A6A04828FD3CDA8640CD2B6796D2;
+			remoteInfo = SwiftyJSON;
+		};
+		9FF840494A18BEFA04EFCDA6EFBBB7F0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3512592E59CCE0A2C2DEBF60C05426EF;
+			remoteInfo = FMMosaicLayout;
+		};
+		B563654571076765AA96969251FA1326 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D118A6A04828FD3CDA8640CD2B6796D2;
+			remoteInfo = SwiftyJSON;
+		};
+		E8B9B23B219F23DCBDA9E67B4E2337FF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 537F3E8EB5CFCE8ABCA197DCE9E6D433;
+			remoteInfo = "Pods-Day05-MosaicLayout";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		01F395CF569926793EE5473E438486BA /* SwiftyJSON.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SwiftyJSON.modulemap; sourceTree = "<group>"; };
+		04D49AFA183C7642E8BD480856A0A459 /* FMMosaicLayout-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FMMosaicLayout-Info.plist"; sourceTree = "<group>"; };
+		0C795D2EE6975FA9DD00D0FBDFAD254C /* FMMosaicLayout */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FMMosaicLayout; path = FMMosaicLayout.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		119C321FA545A1746CF534CA25312E80 /* Pods-Day05-MosaicLayout.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Day05-MosaicLayout.release.xcconfig"; sourceTree = "<group>"; };
+		1648E8BD61892D7D2A2A09BF83C60310 /* Pods-Day05-MosaicLayoutTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Day05-MosaicLayoutTests-Info.plist"; sourceTree = "<group>"; };
+		174764B5E908F4294EE92FA727D93C50 /* SwiftyJSON.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftyJSON.release.xcconfig; sourceTree = "<group>"; };
+		21650DB9F38E6D92CB6C7D84B8B5A346 /* SwiftyJSON-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftyJSON-dummy.m"; sourceTree = "<group>"; };
+		330C6D10B8CCFA18E3CD8DBD760D34DD /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-Info.plist"; sourceTree = "<group>"; };
+		348C0058FB18D2A122A18749AB73FD0C /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-acknowledgements.plist"; sourceTree = "<group>"; };
+		37C61E73B534D087C1733E77F052E014 /* Pods-Day05-MosaicLayout.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Day05-MosaicLayout.debug.xcconfig"; sourceTree = "<group>"; };
+		3BCE5C51B586B4A3EED0FC07BDDFBA12 /* SwiftyJSON.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftyJSON.debug.xcconfig; sourceTree = "<group>"; };
+		3CAB809903613891A12AAFF9EDDC13DC /* FMMosaicLayout.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FMMosaicLayout.debug.xcconfig; sourceTree = "<group>"; };
+		3D57E2156BF9C69273611002E09873F5 /* FMMosaicLayout.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FMMosaicLayout.h; path = Pod/Classes/FMMosaicLayout.h; sourceTree = "<group>"; };
+		44689FDB08B5E13DAB0205E9E3FF26C3 /* SwiftyJSON-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SwiftyJSON-Info.plist"; sourceTree = "<group>"; };
+		47F3BB1D2F2C68AA1339A762256E8613 /* Pods-Day05-MosaicLayoutTests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-Day05-MosaicLayoutTests"; path = Pods_Day05_MosaicLayoutTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4BF60EC95F203FCF14594E689E5A781C /* Pods-Day05-MosaicLayoutTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Day05-MosaicLayoutTests.debug.xcconfig"; sourceTree = "<group>"; };
+		50AAB979E94EB328F62FCD14BE32AA50 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests.modulemap"; sourceTree = "<group>"; };
+		6F47B87EF3DF0D37485B8753DCABF8B8 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-frameworks.sh"; sourceTree = "<group>"; };
+		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		745F898959860F14D59F45505EAEA41D /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests.release.xcconfig"; sourceTree = "<group>"; };
+		8387E29DAD813D11C1303946004F82E1 /* Pods-Day05-MosaicLayoutTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Day05-MosaicLayoutTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		849637E8637DFE9529D95759623B6061 /* Pods-Day05-MosaicLayout-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Day05-MosaicLayout-frameworks.sh"; sourceTree = "<group>"; };
+		89C7BC4954A3144D55C4C22718AA5B61 /* Pods-Day05-MosaicLayout-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Day05-MosaicLayout-acknowledgements.markdown"; sourceTree = "<group>"; };
+		8ADEF9AC3A387DAA488F5EB689874FD2 /* Pods-Day05-MosaicLayoutTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Day05-MosaicLayoutTests.modulemap"; sourceTree = "<group>"; };
+		9293891546D08C6B5FE1090C7599ED5D /* FMMosaicLayout.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FMMosaicLayout.m; path = Pod/Classes/FMMosaicLayout.m; sourceTree = "<group>"; };
+		9692553EB6564AF6E33053C263C59E70 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		9BB6B093468F9C1A1EA1CBF7F5B164A9 /* Pods-Day05-MosaicLayout.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Day05-MosaicLayout.modulemap"; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A167AADF4FB793336E1EDBD8BAF4FC28 /* Pods-Day05-MosaicLayout-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Day05-MosaicLayout-Info.plist"; sourceTree = "<group>"; };
+		A5AEA20ECEE9B93A7F6E8D810840DE68 /* SwiftyJSON-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftyJSON-umbrella.h"; sourceTree = "<group>"; };
+		A5D1AC3F015E5D89C9F7586AEC2C10C4 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-umbrella.h"; sourceTree = "<group>"; };
+		A7437C48764C9B1F84DFFD5AB6B3C079 /* Pods-Day05-MosaicLayoutTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Day05-MosaicLayoutTests.release.xcconfig"; sourceTree = "<group>"; };
+		A7E6926327AFCDEBC1B853A9C10436DF /* Pods-Day05-MosaicLayout-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Day05-MosaicLayout-umbrella.h"; sourceTree = "<group>"; };
+		AEF409F72322D58C71D14A4562885893 /* SwiftyJSON.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = Source/SwiftyJSON/SwiftyJSON.swift; sourceTree = "<group>"; };
+		B8CF4CB341BB5E8E92817BE1EF0086EA /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-dummy.m"; sourceTree = "<group>"; };
+		BAC9340BB264C073D38ED25692BB0A53 /* Pods-Day05-MosaicLayout */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-Day05-MosaicLayout"; path = Pods_Day05_MosaicLayout.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD9A6B731654B24D7B8C2A4286667896 /* Pods-Day05-MosaicLayout-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Day05-MosaicLayout-acknowledgements.plist"; sourceTree = "<group>"; };
+		C5297F95A4869E930A01383A2E6AD2DC /* FMMosaicLayout-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FMMosaicLayout-prefix.pch"; sourceTree = "<group>"; };
+		C584B1B9F475194F8F02750AB83DA4DF /* FMMosaicLayout-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FMMosaicLayout-umbrella.h"; sourceTree = "<group>"; };
+		CE229AE63F3FB103CE344DAAD98CB9D7 /* Pods-Day05-MosaicLayout-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Day05-MosaicLayout-dummy.m"; sourceTree = "<group>"; };
+		D062727D6A56E8740CBA0269E9F8CBDF /* FMMosaicLayout.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FMMosaicLayout.modulemap; sourceTree = "<group>"; };
+		D1028FB44CF126D0866B64D886B405AA /* Pods-Day05-MosaicLayoutTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Day05-MosaicLayoutTests-umbrella.h"; sourceTree = "<group>"; };
+		D9D96D8AE54CF5C118061A32B2BE7A4D /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests"; path = Pods_Day05_MosaicLayout_Day05_MosaicLayoutUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBC066EEBDC1778CAC02D80F8F1724B4 /* FMMosaicLayout.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FMMosaicLayout.release.xcconfig; sourceTree = "<group>"; };
+		DEB12A48E69A2F96237C20C877CB1C6D /* FMMosaicLayout-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FMMosaicLayout-dummy.m"; sourceTree = "<group>"; };
+		DFED59AFECC4A91918253057B2546790 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		E23C076BA70925415F490FEDB215DA92 /* SwiftyJSON */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SwiftyJSON; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E5EBC2A3B35F136F58828313535C6513 /* Pods-Day05-MosaicLayoutTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Day05-MosaicLayoutTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		E7820C4F168C4009189DF58B89ACFE91 /* SwiftyJSON-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftyJSON-prefix.pch"; sourceTree = "<group>"; };
+		EB68076F0110E9C31D23434D0D52E8E7 /* Pods-Day05-MosaicLayoutTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Day05-MosaicLayoutTests-dummy.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2A160F2A0C01419D5C5138CFA9A18919 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				42426D20EFDE403AC84A22FE2FA84973 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3977393A21672F0FBC6F1193739E0D15 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				325CCDB295FFA016638075B5D2CEDD5C /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		709AE5F3D8DA72F3E3BF5283A8B692EB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F8E6642139F9A95A011347D8FBB98540 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		99FC8422E3B83144DFEFA96CD8874E37 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				73BA10CA253338F70FFDA08C05EDB349 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BBE3769D2F798FE8FBAA3E410C4D8CD0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D150C905766426240D9E5B5176F32DE6 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		16FC73A354DFEAFF43349942E72F104F /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				4BEF4A65954D91C45A67B3433036AE1B /* Pods-Day05-MosaicLayout */,
+				BC28FC208C69E91F1D7569CE5ECD6704 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests */,
+				D5710C38E2D70A0F9A1E737CAEA04101 /* Pods-Day05-MosaicLayoutTests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		390FB2416A967500B1928948900FE220 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				D062727D6A56E8740CBA0269E9F8CBDF /* FMMosaicLayout.modulemap */,
+				DEB12A48E69A2F96237C20C877CB1C6D /* FMMosaicLayout-dummy.m */,
+				04D49AFA183C7642E8BD480856A0A459 /* FMMosaicLayout-Info.plist */,
+				C5297F95A4869E930A01383A2E6AD2DC /* FMMosaicLayout-prefix.pch */,
+				C584B1B9F475194F8F02750AB83DA4DF /* FMMosaicLayout-umbrella.h */,
+				3CAB809903613891A12AAFF9EDDC13DC /* FMMosaicLayout.debug.xcconfig */,
+				DBC066EEBDC1778CAC02D80F8F1724B4 /* FMMosaicLayout.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/FMMosaicLayout";
+			sourceTree = "<group>";
+		};
+		4BEF4A65954D91C45A67B3433036AE1B /* Pods-Day05-MosaicLayout */ = {
+			isa = PBXGroup;
+			children = (
+				9BB6B093468F9C1A1EA1CBF7F5B164A9 /* Pods-Day05-MosaicLayout.modulemap */,
+				89C7BC4954A3144D55C4C22718AA5B61 /* Pods-Day05-MosaicLayout-acknowledgements.markdown */,
+				BD9A6B731654B24D7B8C2A4286667896 /* Pods-Day05-MosaicLayout-acknowledgements.plist */,
+				CE229AE63F3FB103CE344DAAD98CB9D7 /* Pods-Day05-MosaicLayout-dummy.m */,
+				849637E8637DFE9529D95759623B6061 /* Pods-Day05-MosaicLayout-frameworks.sh */,
+				A167AADF4FB793336E1EDBD8BAF4FC28 /* Pods-Day05-MosaicLayout-Info.plist */,
+				A7E6926327AFCDEBC1B853A9C10436DF /* Pods-Day05-MosaicLayout-umbrella.h */,
+				37C61E73B534D087C1733E77F052E014 /* Pods-Day05-MosaicLayout.debug.xcconfig */,
+				119C321FA545A1746CF534CA25312E80 /* Pods-Day05-MosaicLayout.release.xcconfig */,
+			);
+			name = "Pods-Day05-MosaicLayout";
+			path = "Target Support Files/Pods-Day05-MosaicLayout";
+			sourceTree = "<group>";
+		};
+		4DBD99A468E42A385831DFC5D3D03930 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F400B1C7E94B9B8A534FB081C2486865 /* FMMosaicLayout */,
+				AEEBCD1B8A3C0745A86185EF100D43A6 /* SwiftyJSON */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		AEEBCD1B8A3C0745A86185EF100D43A6 /* SwiftyJSON */ = {
+			isa = PBXGroup;
+			children = (
+				AEF409F72322D58C71D14A4562885893 /* SwiftyJSON.swift */,
+				EF58593048C0541501BB13F0592C6B1A /* Support Files */,
+			);
+			name = SwiftyJSON;
+			path = SwiftyJSON;
+			sourceTree = "<group>";
+		};
+		BC28FC208C69E91F1D7569CE5ECD6704 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests */ = {
+			isa = PBXGroup;
+			children = (
+				50AAB979E94EB328F62FCD14BE32AA50 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests.modulemap */,
+				DFED59AFECC4A91918253057B2546790 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-acknowledgements.markdown */,
+				348C0058FB18D2A122A18749AB73FD0C /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-acknowledgements.plist */,
+				B8CF4CB341BB5E8E92817BE1EF0086EA /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-dummy.m */,
+				6F47B87EF3DF0D37485B8753DCABF8B8 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-frameworks.sh */,
+				330C6D10B8CCFA18E3CD8DBD760D34DD /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-Info.plist */,
+				A5D1AC3F015E5D89C9F7586AEC2C10C4 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-umbrella.h */,
+				9692553EB6564AF6E33053C263C59E70 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests.debug.xcconfig */,
+				745F898959860F14D59F45505EAEA41D /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests.release.xcconfig */,
+			);
+			name = "Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests";
+			path = "Target Support Files/Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests";
+			sourceTree = "<group>";
+		};
+		C70013E3B9F4C9923C7C8E149B777C57 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0C795D2EE6975FA9DD00D0FBDFAD254C /* FMMosaicLayout */,
+				BAC9340BB264C073D38ED25692BB0A53 /* Pods-Day05-MosaicLayout */,
+				D9D96D8AE54CF5C118061A32B2BE7A4D /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests */,
+				47F3BB1D2F2C68AA1339A762256E8613 /* Pods-Day05-MosaicLayoutTests */,
+				E23C076BA70925415F490FEDB215DA92 /* SwiftyJSON */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CF1408CF629C7361332E53B88F7BD30C = {
+			isa = PBXGroup;
+			children = (
+				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
+				4DBD99A468E42A385831DFC5D3D03930 /* Pods */,
+				C70013E3B9F4C9923C7C8E149B777C57 /* Products */,
+				16FC73A354DFEAFF43349942E72F104F /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				578452D2E740E91742655AC8F1636D1F /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D5710C38E2D70A0F9A1E737CAEA04101 /* Pods-Day05-MosaicLayoutTests */ = {
+			isa = PBXGroup;
+			children = (
+				8ADEF9AC3A387DAA488F5EB689874FD2 /* Pods-Day05-MosaicLayoutTests.modulemap */,
+				E5EBC2A3B35F136F58828313535C6513 /* Pods-Day05-MosaicLayoutTests-acknowledgements.markdown */,
+				8387E29DAD813D11C1303946004F82E1 /* Pods-Day05-MosaicLayoutTests-acknowledgements.plist */,
+				EB68076F0110E9C31D23434D0D52E8E7 /* Pods-Day05-MosaicLayoutTests-dummy.m */,
+				1648E8BD61892D7D2A2A09BF83C60310 /* Pods-Day05-MosaicLayoutTests-Info.plist */,
+				D1028FB44CF126D0866B64D886B405AA /* Pods-Day05-MosaicLayoutTests-umbrella.h */,
+				4BF60EC95F203FCF14594E689E5A781C /* Pods-Day05-MosaicLayoutTests.debug.xcconfig */,
+				A7437C48764C9B1F84DFFD5AB6B3C079 /* Pods-Day05-MosaicLayoutTests.release.xcconfig */,
+			);
+			name = "Pods-Day05-MosaicLayoutTests";
+			path = "Target Support Files/Pods-Day05-MosaicLayoutTests";
+			sourceTree = "<group>";
+		};
+		EF58593048C0541501BB13F0592C6B1A /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				01F395CF569926793EE5473E438486BA /* SwiftyJSON.modulemap */,
+				21650DB9F38E6D92CB6C7D84B8B5A346 /* SwiftyJSON-dummy.m */,
+				44689FDB08B5E13DAB0205E9E3FF26C3 /* SwiftyJSON-Info.plist */,
+				E7820C4F168C4009189DF58B89ACFE91 /* SwiftyJSON-prefix.pch */,
+				A5AEA20ECEE9B93A7F6E8D810840DE68 /* SwiftyJSON-umbrella.h */,
+				3BCE5C51B586B4A3EED0FC07BDDFBA12 /* SwiftyJSON.debug.xcconfig */,
+				174764B5E908F4294EE92FA727D93C50 /* SwiftyJSON.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/SwiftyJSON";
+			sourceTree = "<group>";
+		};
+		F400B1C7E94B9B8A534FB081C2486865 /* FMMosaicLayout */ = {
+			isa = PBXGroup;
+			children = (
+				3D57E2156BF9C69273611002E09873F5 /* FMMosaicLayout.h */,
+				9293891546D08C6B5FE1090C7599ED5D /* FMMosaicLayout.m */,
+				390FB2416A967500B1928948900FE220 /* Support Files */,
+			);
+			name = FMMosaicLayout;
+			path = FMMosaicLayout;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		2FD6F94784CC504E21FCA1F60574A9C2 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F056E613C7A01291202D437CD2808094 /* FMMosaicLayout.h in Headers */,
+				6FC4F2514299AF461C3CD1F2AAA9A1B0 /* FMMosaicLayout-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		41145698F7DF35B05606D01197454CFC /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A115142039C23F91827E6961CC479F05 /* SwiftyJSON-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B1B0E0E1817C366B175BE38769AD8946 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D30C0DABCDCDCD58DCFE4A02557F4A27 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DE91EB123D79FDE4AB08D30D36D71534 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A49928CF07A93864BB466B93AACB6F55 /* Pods-Day05-MosaicLayout-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F52140114A0191035413786A97B0769D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DDD1A69AB25EA94DF0009AF0C3E96531 /* Pods-Day05-MosaicLayoutTests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		110687E031A2BBFBB9F48CE6C0778D83 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 14D09EE501D18F3A7D7486879E902B42 /* Build configuration list for PBXNativeTarget "Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests" */;
+			buildPhases = (
+				B1B0E0E1817C366B175BE38769AD8946 /* Headers */,
+				A9DC207984F4458D6FFE347D29570711 /* Sources */,
+				BBE3769D2F798FE8FBAA3E410C4D8CD0 /* Frameworks */,
+				DF044526A6832B15A5E7F2CDF994233A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DF69D8B06445524D41F85521938D1179 /* PBXTargetDependency */,
+				3346CADF31A9C2A5DE4124235DDBAB19 /* PBXTargetDependency */,
+			);
+			name = "Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests";
+			productName = Pods_Day05_MosaicLayout_Day05_MosaicLayoutUITests;
+			productReference = D9D96D8AE54CF5C118061A32B2BE7A4D /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests */;
+			productType = "com.apple.product-type.framework";
+		};
+		3512592E59CCE0A2C2DEBF60C05426EF /* FMMosaicLayout */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 47CD8ACB832EB31ADF349C0D82DA4291 /* Build configuration list for PBXNativeTarget "FMMosaicLayout" */;
+			buildPhases = (
+				2FD6F94784CC504E21FCA1F60574A9C2 /* Headers */,
+				FBEF20BEA7ACDDCED0D97E7A03205242 /* Sources */,
+				709AE5F3D8DA72F3E3BF5283A8B692EB /* Frameworks */,
+				F101D258DECB00F8154945627C3A15ED /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FMMosaicLayout;
+			productName = FMMosaicLayout;
+			productReference = 0C795D2EE6975FA9DD00D0FBDFAD254C /* FMMosaicLayout */;
+			productType = "com.apple.product-type.framework";
+		};
+		537F3E8EB5CFCE8ABCA197DCE9E6D433 /* Pods-Day05-MosaicLayout */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A7F19D2083135027B5BE4D92285A2BDF /* Build configuration list for PBXNativeTarget "Pods-Day05-MosaicLayout" */;
+			buildPhases = (
+				DE91EB123D79FDE4AB08D30D36D71534 /* Headers */,
+				13F0C777FA5148688AFD854864B7D47B /* Sources */,
+				2A160F2A0C01419D5C5138CFA9A18919 /* Frameworks */,
+				931C78B2FED95CB65CF8E423D461A291 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				930F23596B17FB3BE98C1CE1A51C4DBB /* PBXTargetDependency */,
+				A6EED8E8C5670DCB7BA1C7E57C59A3D8 /* PBXTargetDependency */,
+			);
+			name = "Pods-Day05-MosaicLayout";
+			productName = Pods_Day05_MosaicLayout;
+			productReference = BAC9340BB264C073D38ED25692BB0A53 /* Pods-Day05-MosaicLayout */;
+			productType = "com.apple.product-type.framework";
+		};
+		D118A6A04828FD3CDA8640CD2B6796D2 /* SwiftyJSON */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2490E828D479276A7E0AFBA515DD77FA /* Build configuration list for PBXNativeTarget "SwiftyJSON" */;
+			buildPhases = (
+				41145698F7DF35B05606D01197454CFC /* Headers */,
+				7B5BEB32F210EFE38F7D58FF8A1CC2DE /* Sources */,
+				3977393A21672F0FBC6F1193739E0D15 /* Frameworks */,
+				B05597C458D738E12F170EAC515F8483 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SwiftyJSON;
+			productName = SwiftyJSON;
+			productReference = E23C076BA70925415F490FEDB215DA92 /* SwiftyJSON */;
+			productType = "com.apple.product-type.framework";
+		};
+		D9D50E402EA7BEF317714F6012367441 /* Pods-Day05-MosaicLayoutTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 75F9B359619EF13E20CEDC9172648289 /* Build configuration list for PBXNativeTarget "Pods-Day05-MosaicLayoutTests" */;
+			buildPhases = (
+				F52140114A0191035413786A97B0769D /* Headers */,
+				A30920B5F0505D41134764D374E9751D /* Sources */,
+				99FC8422E3B83144DFEFA96CD8874E37 /* Frameworks */,
+				4EB8DD180E6BACE84C815197F95EF1BA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				435D49693542CE73F832A67E1D0D2686 /* PBXTargetDependency */,
+			);
+			name = "Pods-Day05-MosaicLayoutTests";
+			productName = Pods_Day05_MosaicLayoutTests;
+			productReference = 47F3BB1D2F2C68AA1339A762256E8613 /* Pods-Day05-MosaicLayoutTests */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
+			};
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			productRefGroup = C70013E3B9F4C9923C7C8E149B777C57 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3512592E59CCE0A2C2DEBF60C05426EF /* FMMosaicLayout */,
+				537F3E8EB5CFCE8ABCA197DCE9E6D433 /* Pods-Day05-MosaicLayout */,
+				110687E031A2BBFBB9F48CE6C0778D83 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests */,
+				D9D50E402EA7BEF317714F6012367441 /* Pods-Day05-MosaicLayoutTests */,
+				D118A6A04828FD3CDA8640CD2B6796D2 /* SwiftyJSON */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4EB8DD180E6BACE84C815197F95EF1BA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		931C78B2FED95CB65CF8E423D461A291 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B05597C458D738E12F170EAC515F8483 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DF044526A6832B15A5E7F2CDF994233A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F101D258DECB00F8154945627C3A15ED /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		13F0C777FA5148688AFD854864B7D47B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0F856706632030ABDE73A83A89075113 /* Pods-Day05-MosaicLayout-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7B5BEB32F210EFE38F7D58FF8A1CC2DE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3CEE8324948497036C4E123B21CBC59 /* SwiftyJSON.swift in Sources */,
+				5FA526557719FDBE81B1974B113CF600 /* SwiftyJSON-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A30920B5F0505D41134764D374E9751D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B20A7CB94170DA7D9285ABCD6965B80F /* Pods-Day05-MosaicLayoutTests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A9DC207984F4458D6FFE347D29570711 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACCA08C1AAABA17B1648C14CC2339A93 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FBEF20BEA7ACDDCED0D97E7A03205242 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FE6BE048A7CAA82F1E19DCA1E2D7F95C /* FMMosaicLayout.m in Sources */,
+				706C2B99A75ACF2AB22765CFAF528C32 /* FMMosaicLayout-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3346CADF31A9C2A5DE4124235DDBAB19 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SwiftyJSON;
+			target = D118A6A04828FD3CDA8640CD2B6796D2 /* SwiftyJSON */;
+			targetProxy = 733D3297362EB9552C943BED1D1B2220 /* PBXContainerItemProxy */;
+		};
+		435D49693542CE73F832A67E1D0D2686 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-Day05-MosaicLayout";
+			target = 537F3E8EB5CFCE8ABCA197DCE9E6D433 /* Pods-Day05-MosaicLayout */;
+			targetProxy = E8B9B23B219F23DCBDA9E67B4E2337FF /* PBXContainerItemProxy */;
+		};
+		930F23596B17FB3BE98C1CE1A51C4DBB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = FMMosaicLayout;
+			target = 3512592E59CCE0A2C2DEBF60C05426EF /* FMMosaicLayout */;
+			targetProxy = 9FF840494A18BEFA04EFCDA6EFBBB7F0 /* PBXContainerItemProxy */;
+		};
+		A6EED8E8C5670DCB7BA1C7E57C59A3D8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SwiftyJSON;
+			target = D118A6A04828FD3CDA8640CD2B6796D2 /* SwiftyJSON */;
+			targetProxy = B563654571076765AA96969251FA1326 /* PBXContainerItemProxy */;
+		};
+		DF69D8B06445524D41F85521938D1179 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = FMMosaicLayout;
+			target = 3512592E59CCE0A2C2DEBF60C05426EF /* FMMosaicLayout */;
+			targetProxy = 46D77F0E0B717ADA56C42678F13F43D8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		2642210B0D3FFBDF39248CB4D91D3056 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DBC066EEBDC1778CAC02D80F8F1724B4 /* FMMosaicLayout.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/FMMosaicLayout/FMMosaicLayout-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FMMosaicLayout/FMMosaicLayout-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/FMMosaicLayout/FMMosaicLayout.modulemap";
+				PRODUCT_MODULE_NAME = FMMosaicLayout;
+				PRODUCT_NAME = FMMosaicLayout;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		278622BF0C522D7B9AC6C114E5038E80 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 745F898959860F14D59F45505EAEA41D /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests/Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests/Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		36E7CC7824F19FF7B22BF2D8AD93F1BB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 37C61E73B534D087C1733E77F052E014 /* Pods-Day05-MosaicLayout.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Day05-MosaicLayout/Pods-Day05-MosaicLayout-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Day05-MosaicLayout/Pods-Day05-MosaicLayout.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		4214E6946993DF02ED98D89047C64016 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		60DBCD7F7B6A532DB664552D780E38D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4BF60EC95F203FCF14594E689E5A781C /* Pods-Day05-MosaicLayoutTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Day05-MosaicLayoutTests/Pods-Day05-MosaicLayoutTests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Day05-MosaicLayoutTests/Pods-Day05-MosaicLayoutTests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		7CC310C4FC4F714AC7DE6ADC58C3CA99 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9692553EB6564AF6E33053C263C59E70 /* Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests/Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests/Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		92194C84D4BE2A7ECDFA6CC44CDEBAB7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3CAB809903613891A12AAFF9EDDC13DC /* FMMosaicLayout.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/FMMosaicLayout/FMMosaicLayout-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FMMosaicLayout/FMMosaicLayout-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/FMMosaicLayout/FMMosaicLayout.modulemap";
+				PRODUCT_MODULE_NAME = FMMosaicLayout;
+				PRODUCT_NAME = FMMosaicLayout;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		9A986702B2F7DCE836BF348CA3C13B64 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A7437C48764C9B1F84DFFD5AB6B3C079 /* Pods-Day05-MosaicLayoutTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Day05-MosaicLayoutTests/Pods-Day05-MosaicLayoutTests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Day05-MosaicLayoutTests/Pods-Day05-MosaicLayoutTests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		A9EEBF12B0E3733A640B1F7870912751 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 174764B5E908F4294EE92FA727D93C50 /* SwiftyJSON.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SwiftyJSON/SwiftyJSON-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SwiftyJSON/SwiftyJSON-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/SwiftyJSON/SwiftyJSON.modulemap";
+				PRODUCT_MODULE_NAME = SwiftyJSON;
+				PRODUCT_NAME = SwiftyJSON;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		BD0E5E3EFB0F4CCE246B60BB04FAB85B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3BCE5C51B586B4A3EED0FC07BDDFBA12 /* SwiftyJSON.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SwiftyJSON/SwiftyJSON-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SwiftyJSON/SwiftyJSON-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/SwiftyJSON/SwiftyJSON.modulemap";
+				PRODUCT_MODULE_NAME = SwiftyJSON;
+				PRODUCT_NAME = SwiftyJSON;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		C753E682330E81097C24ACB95B2C66AF /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 119C321FA545A1746CF534CA25312E80 /* Pods-Day05-MosaicLayout.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Day05-MosaicLayout/Pods-Day05-MosaicLayout-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Day05-MosaicLayout/Pods-Day05-MosaicLayout.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		CD85FD90473CFBE797E4264E7BBC70AF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		14D09EE501D18F3A7D7486879E902B42 /* Build configuration list for PBXNativeTarget "Pods-Day05-MosaicLayout-Day05-MosaicLayoutUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7CC310C4FC4F714AC7DE6ADC58C3CA99 /* Debug */,
+				278622BF0C522D7B9AC6C114E5038E80 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2490E828D479276A7E0AFBA515DD77FA /* Build configuration list for PBXNativeTarget "SwiftyJSON" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BD0E5E3EFB0F4CCE246B60BB04FAB85B /* Debug */,
+				A9EEBF12B0E3733A640B1F7870912751 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		47CD8ACB832EB31ADF349C0D82DA4291 /* Build configuration list for PBXNativeTarget "FMMosaicLayout" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				92194C84D4BE2A7ECDFA6CC44CDEBAB7 /* Debug */,
+				2642210B0D3FFBDF39248CB4D91D3056 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4214E6946993DF02ED98D89047C64016 /* Debug */,
+				CD85FD90473CFBE797E4264E7BBC70AF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		75F9B359619EF13E20CEDC9172648289 /* Build configuration list for PBXNativeTarget "Pods-Day05-MosaicLayoutTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				60DBCD7F7B6A532DB664552D780E38D4 /* Debug */,
+				9A986702B2F7DCE836BF348CA3C13B64 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A7F19D2083135027B5BE4D92285A2BDF /* Build configuration list for PBXNativeTarget "Pods-Day05-MosaicLayout" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				36E7CC7824F19FF7B22BF2D8AD93F1BB /* Debug */,
+				C753E682330E81097C24ACB95B2C66AF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+}

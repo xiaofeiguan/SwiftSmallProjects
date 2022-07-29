@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Day05_MosaicLayout_Day05_MosaicLayoutUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Day05_MosaicLayout_Day05_MosaicLayoutUITests
+@end
